@@ -1,0 +1,5 @@
+File:Open	
+EGG:SetChannel	0.0000	
+EGG:Invert	
+File:Save	
+File:Close	

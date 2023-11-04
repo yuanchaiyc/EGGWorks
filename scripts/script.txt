@@ -1,0 +1,8 @@
+File:Open	
+EGG:SetChannel	1.0000	
+Option:Smooth	5.0000	
+Analysis:Smooth	
+EGG:AnalysisAll	
+Log:New	
+Log:EnterEGGAll	
+File:Close	
